@@ -10,9 +10,7 @@
 #             combination = best_sum(remainder, numbers)
 #             if combination is not None:
 #                 combination = combination + [num]
-#                 if shortest_combination is None or len(combination) < len(
-#                     shortest_combination
-#                 ):
+#               if shortest_combination is None or len(combination) < len(shortest_combination):
 #                     shortest_combination = combination
 #     return shortest_combination
 
