@@ -1,8 +1,12 @@
+
 # l=["ab1","b","cnjvniesj0"]
 # print(len(l))
 # for i in range(len(l)):
 #     for j in l[i]:
 #         print(j)
+
+
+
 t=int(input())
 for t in range(t):
     l=list(map(str,input().split()))
